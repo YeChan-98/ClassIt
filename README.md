@@ -9,7 +9,7 @@
 
 
 ## 목차
-- [개요](https://github.com/YeChan-98/ClassIt#-개요)
+- [개요](#chapter1)
 - [기술 스택](https://github.com/appcoding-ux/Spring_Project#-기술-스택)
 - [프로젝트 설계](https://github.com/appcoding-ux/Spring_Project#-프로젝트-설계)
 - [핵심 기능](https://github.com/appcoding-ux/Spring_Project#-핵심-기능)
@@ -18,7 +18,7 @@
   
 
 
-## 🚩 개요
+## 🚩 개요 <a id="chapter1"></a>
 - 프로젝트 목표 : 다양한 `API`를 활용한 `스프링` , `마이바티스` 원 데이 클래스 프로젝트
 - 개발기간 : 24/11/25 ~ 24/12/13
 
