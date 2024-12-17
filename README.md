@@ -1,4 +1,4 @@
-<h1 align='center'> <img src='https://cdn-icons-png.flaticon.com/512/5208/5208370.png' style='width: 300px; height: 200px;'>&nbsp;</h1>
+<h1 align='center'> <img src='https://github.com/user-attachments/assets/07cb2a44-7404-46de-a9ba-d309942dcd4f' style='width: 300px; height: 200px;'>&nbsp;</h1>
 <h1  align='center'>원 데이 클래스</h1>
 <div align='center'>
   <h3>
@@ -10,11 +10,11 @@
 
 ## 목차
 - [개요](#chapter1)
-- [기술 스택](https://github.com/appcoding-ux/Spring_Project#-기술-스택)
-- [프로젝트 설계](https://github.com/appcoding-ux/Spring_Project#-프로젝트-설계)
-- [핵심 기능](https://github.com/appcoding-ux/Spring_Project#-핵심-기능)
-- [주요기능 실행화면](https://github.com/appcoding-ux/Spring_Project#-주요기능-실행화면)
-- [개선사항](https://github.com/appcoding-ux/Spring_Project#-개선사항)
+- [기술 스택](#chapter2)
+- [프로젝트 설계](#chapter3)
+- [핵심 기능](#chapter4)
+- [주요기능 실행화면](#chapter5)
+- [개선사항](#chapter6)
   
 
 
@@ -24,8 +24,8 @@
 
 
 
-## 🔧 기술 스택
-- API : `카카오 API(카카오맵, 카카오페이)` `KG 이니셔스 API` 
+## 🔧 기술 스택 <a id="chapter2"></a>
+- API : `카카오맵 API` `PortOne API` 
 - Language : `Java(11)` `JavaScript(1.5)`
 - Library & Framework : `Spring(5.2.7)` `Junit(4.12)` `Servlet(3.1.0)` `Spring Security`
 - Database : `MySQL(8.0.35)`, `Oracle IDE(17.2.0)`
@@ -40,7 +40,7 @@
 
 
 
-<details><summary>프로젝트 설계, 구현, PPT</summary>   
+<details><summary>프로젝트 설계, 구현, PPT</summary> <a id="chapter3"></a>   
 <div align="center">          
 
 | **![슬라이드1](https://github.com/user-attachments/assets/5ae9b15c-6182-4adc-a24a-5195065b0713)** | **![슬라이드2](https://github.com/user-attachments/assets/9d2ce666-d303-4329-a41b-104b9f46bedd)** |
@@ -70,7 +70,7 @@
 </div>            
 </details>
 
-## 💻 핵심 기능
+## 💻 핵심 기능 <a id="chapter4"></a>
 
 #### 로그인
 - 시큐리티 로그인
@@ -89,7 +89,7 @@
 - 클래스 문의
 
 #### 클래스 예약
-- 클래스 예약 및 결제(카카오페이 API, KG이니셔스 API)
+- 클래스 예약 및 결제(PortOne API)
 
 #### 마이페이지 
 - 회원정보 보기
@@ -99,7 +99,7 @@
 - 예정된 클래스
 - 완료된 클래스
 - 리뷰 작성
-- 리뷰 수정/삭제)
+- 리뷰 수정/삭제
 
 #### Q&A 
 - 미답변 문의
@@ -116,8 +116,18 @@
 - 문의 답변완료
 
  
-## 🎇 주요기능 실행화면
+## 🎇 주요기능 실행화면 <a id="chapter5"></a>
 
 
 * **메인 화면**
-  * `카테고리` 메뉴를 사용해 카테고리 별로 상품을 확인할 수 있습니다.
+  * 메인페이지는 로그인, 회원가입, 클래스 추천, 클래스 목록으로 이동하는 버튼이 있음.
+    
+    ![mainpage](https://github.com/user-attachments/assets/07cb2a44-7404-46de-a9ba-d309942dcd4f)
+
+
+
+## 🌄 개선사항 <a id="chapter6"></a>
+- 카카오, 네이버 등 소셜 로그인 기능
+- 클래스 예약 완료 및 승인/거절 시 확인 메일 발송 기능
+- 관리자의 회원 관리 기능
+- 클래스 등록 파일 업로드 기능
