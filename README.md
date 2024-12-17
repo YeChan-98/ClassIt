@@ -1,3 +1,5 @@
+<h1 align='center'> <img src='https://cdn-icons-png.flaticon.com/512/5208/5208370.png' style='width: 300px; height: 200px;'>&nbsp;</h1>
+<h1  align='center'>원 데이 클래스</h1>
 <div align='center'>
   <h3>
     🔗 <a href="">AWS 나중에 추가할 예정</a> 사이트 바로가기
@@ -26,7 +28,7 @@
 - API : `카카오 API(카카오맵, 카카오페이)` `KG 이니셔스 API` 
 - Language : `Java(11)` `JavaScript(1.5)`
 - Library & Framework : `Spring(5.2.7)` `Junit(4.12)` `Servlet(3.1.0)` `Spring Security`
-- Database : `MySQL(8.0.35)`, Oracle IDE(17.2.0)
+- Database : `MySQL(8.0.35)`, `Oracle IDE(17.2.0)`
 - Target : `Web Browser`
 - Tool : `SpringSource Tool Suite (STS) 3.9.18.RELEASE`
 - Infra : `Windows10`
@@ -63,9 +65,7 @@
 | ![슬라이드37](https://github.com/user-attachments/assets/95cdcabb-ef02-424e-87dd-7765fbfaa0b7) | ![슬라이드38](https://github.com/user-attachments/assets/f21311e1-b3f0-4a72-8c1f-ca99b9125e5b) |
 | ![슬라이드39](https://github.com/user-attachments/assets/d055e657-5ba4-4de5-bfd3-4863eb3de787) | ![슬라이드40](https://github.com/user-attachments/assets/283606c5-c07a-4593-a6b3-f2ca6f14e76d) |
 | ![슬라이드41](https://github.com/user-attachments/assets/ecc18ece-403c-4a85-9abd-a4748b8a7ab3) | ![슬라이드42](https://github.com/user-attachments/assets/6b4c6c90-5069-489b-8add-b00c59297c69) |
-| ![슬라이드43](https://github.com/user-attachments/assets/673994bf-157d-47e1-a50d-4c2c9e9ea98d) | ![슬라이드44](https://github.com/user-attachments/assets/678e7f84-c8bd-46a7-ab7e-4c1baf7c29de) |
-| ![슬라이드45](https://github.com/user-attachments/assets/6372901e-30ae-4707-96f0-1d7a1b5c4457) |
-
+| ![슬라이드43](https://github.com/user-attachments/assets/673994bf-157d-47e1-a50d-4c2c9e9ea98d) | 
 
 </div>            
 </details>
